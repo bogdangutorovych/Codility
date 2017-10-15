@@ -13,7 +13,6 @@ public class Distinct {
             if (!set.contains(A[i])) {
                 set.add(A[i]);
             } 
-            
         }
         return set.size();
     }
